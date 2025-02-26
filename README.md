@@ -1,9 +1,10 @@
 # Snake-Game (Interactive and Fun Snake Game)
  
-##🐍 Snake in the Maze
+## 🐍 Snake in the Maze
 
-##About the Game
-##Snake in the Maze is a classic console-based snake game built in C++. Inspired by the legendary snake game I played growing up, this version adds a fun twist with randomized obstacles and speed variations to enhance the challenge. Players control the snake to collect food while avoiding collisions with the maze boundaries and their own tail. The goal is to survive as long as possible while growing the snake and achieving the highest score!
+About the Game
+
+Snake in the Maze is a classic console-based snake game built in C++. Inspired by the legendary snake game I played growing up, this version adds a fun twist with randomized obstacles and speed variations to enhance the challenge. Players control the snake to collect food while avoiding collisions with the maze boundaries and their own tail. The goal is to survive as long as possible while growing the snake and achieving the highest score!
 
 ##🎮 How to Play
 
