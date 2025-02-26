@@ -21,9 +21,13 @@ Press X to exit the game at any time.
 
 Programming Language: C++
 Libraries Used:     
+
  .<iostream> for console input/output
+ 
  .<conio.h> for handling keyboard input
+ 
  .<Windows.h> for system functions
+ 
  .<chrono> and <thread> for managing game speed
 
 ### 🎯 Motivation Behind the Game
